@@ -3,7 +3,9 @@ Let's count zeros!
 
 ## Task
 
-Your task is to implement `getZerosCount` function, which takes any integer number `number` (`1 <= number <= 10^8`) as only argument. You should calculate *how many zeros in the end of result number, which is factorial of `number`*
+Your task is to implement `getZerosCount` function,
+which takes any integer number `number` (`1 <= number <= 10^8`) as only argument.
+You should calculate *how many zeros in the end of result number, which is factorial of `number`*
 
 For example:
 ```js
@@ -12,4 +14,7 @@ For example:
 ```
 
 ### Important!
-Do not try to calculate factorial! First - you will not get exact answer on big numbers. Second - it could take several years to calculate factorial on big integers! Try to think up your awesome solution without such calculations. Good luck!
+Do not try to calculate factorial!
+First - you will not get exact answer on big numbers.
+Second - it could take several years to calculate factorial on big integers!
+Try to think up your awesome solution without such calculations. Good luck!
